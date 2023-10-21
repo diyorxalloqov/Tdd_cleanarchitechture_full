@@ -1,0 +1,6 @@
+{
+    "java.project.sourcePaths": [
+        "lib/utils",
+        "lib/modules/users/presentation/ui/widgets"
+    ]
+}
